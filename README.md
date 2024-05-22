@@ -13,6 +13,6 @@ Questions Explored:
 * How is wealth distributed in developed and developing countries?
 * How is wealth distributed in eastern and westerns countries?
 * How are Literacy rate and life expectancy related?
-* Do regions with higher unemployement and literacy rates have a higher number of HIV infections ? (More drug usage(sharing needles, higher sexual activity etc.)
+* Do regions with higher unemployement and literacy rates have a higher number of HIV infections ? (More drug usage, sharing needles, higher sexual activity etc.)
 * Trends of quality of life over the period of 2015-2019 based on region of the country.
 * Quality of Life calculated as Life Expectancy * Happiness Score vs Economic status (Rich,Medium,Poor)
